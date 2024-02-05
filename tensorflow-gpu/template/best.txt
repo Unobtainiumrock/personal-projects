@@ -1,0 +1,1 @@
+ docker run --gpus all -u $(id -u):$(id -g) -it -w /tensorflow -v $PWD:/mnt tensorflow/tensorflow:devel-gpu bash
