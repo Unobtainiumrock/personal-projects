@@ -1,6 +1,6 @@
 # About
 
-This respository serves the role of containing all of my side-projects being worked on. These projects will range from things including games to task automation which are both hobbies of mine. Each project will incorporate some aspect of data driven decision making, inference, and machine or deep learning. If any invidiual project grows large enough to warrant its own repo, then it will be separated out, and in its place there will be a reference to that dedicated repo. 
+This respository serves the role of containing all of my side-projects being worked on. These projects will range from things including games to task automation which are both hobbies of mine. The majority of projects will incorporate some aspect of data driven decision making, inference, and machine or deep learning. If any invidiual project grows large enough to warrant its own repo, then it will be separated out, and in its place there will be a reference to that dedicated repo. 
 
 ## Business
 
